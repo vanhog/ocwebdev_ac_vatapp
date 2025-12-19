@@ -1,6 +1,6 @@
 # VAT Calculator
 
-This is a solution to the [OpenCampus' WebDev Program 2025's (a.k.a. 'The crazy one')](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) VAT calculator challenge.  
+This is a solution to the [OpenCampus' WebDev Program 2025's (a.k.a. 'The crazy one')](https://edu.opencampus.sh/en) VAT calculator challenge.  
 
 ## Table of contents
 
